@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: chocolate;
+    font-size: xxx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+div{
+    font-size: larger;
+    font-weight: 500;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
